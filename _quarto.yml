@@ -7,12 +7,14 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/anshu-mishra25
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/AnshuMishr22631
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
 
 editor: visual

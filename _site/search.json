@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "Hi! I’m Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I’m deeply interested in statistics, data science, and financial modeling — I’m diving into data and statistics to better understand how things actually work.\nI started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying Actuarial Science, Finance, and Statistics.\nWhen I’m not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.\nFeel free to reach out, drop a comment, or just explore. I’m always up for good conversation."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "Hi! I’m Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I’m deeply interested in statistics, data science, and financial modeling — I’m diving into data and statistics to better understand how things actually work.\nI started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying Actuarial Science, Finance, and Statistics.\nWhen I’m not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.\nFeel free to reach out, drop a comment, or just explore. I’m always up for good conversation."
   }
 ]
