@@ -5,15 +5,20 @@ about:
   template: jolla
   links:
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+      text: X/Twitter
+      href: https://x.com/AnshuMishr22631
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/anshu-mishra-b06176287/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/anshu-mishra25
 ---
 
-About this blog
+Hi! I'm Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I'm deeply interested in statistics, data science, and financial modeling — I'm diving into data and statistics to better understand how things actually work.
+
+I started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying Actuarial Science, Finance, and Statistics.
+
+When I'm not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.
+
+Feel free to reach out, drop a comment, or just explore. I’m always up for good conversation.
