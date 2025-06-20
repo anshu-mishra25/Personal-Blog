@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Personal Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 15, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nPersonal\n\n\n\n\n\n\n\n\n\nJun 15, 2025\n\n\nAnshu Mishra\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Anshu Mishra",
+    "section": "",
+    "text": "Hi! I’m Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I’m deeply interested in statistics, data science, and finance.\nI started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying all I know and will learn.\nWhen I’m not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.\nFeel free to reach out, drop a comment, or just explore. I’m always up for good conversation."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -14,24 +28,31 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Anshu Mishra",
     "section": "",
-    "text": "Hi! I’m Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I’m deeply interested in statistics, data science, and financial modeling — I’m diving into data and statistics to better understand how things actually work.\nI started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying Actuarial Science, Finance, and Statistics.\nWhen I’m not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.\nFeel free to reach out, drop a comment, or just explore. I’m always up for good conversation."
+    "text": "Hi! I’m Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I’m deeply interested in statistics, data science, and finance.\nI started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying all I know and will learn.\nWhen I’m not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.\nFeel free to reach out, drop a comment, or just explore. I’m always up for good conversation."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/welcome/1-Welcome_Post.html",
+    "href": "posts/welcome/1-Welcome_Post.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About",
+    "objectID": "posts/welcome/Welcome_Post.html",
+    "href": "posts/welcome/Welcome_Post.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Hi! I’m Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I’m deeply interested in statistics, data science, and financial modeling — I’m diving into data and statistics to better understand how things actually work.\nI started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying Actuarial Science, Finance, and Statistics.\nWhen I’m not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.\nFeel free to reach out, drop a comment, or just explore. I’m always up for good conversation."
+    "text": "This is my first post of the blog. Welcome!"
+  },
+  {
+    "objectID": "posts/post-with-code/First_Post.html",
+    "href": "posts/post-with-code/First_Post.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   }
 ]

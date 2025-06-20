@@ -1,7 +1,9 @@
 ---
 title: "About"
-image: profile.jpg
+
 about:
+  image: profile.jpg
+  image-title: Anshu Mishra
   template: jolla
   links:
     - icon: twitter
@@ -15,9 +17,11 @@ about:
       href: https://github.com/anshu-mishra25
 ---
 
-Hi! I'm Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I'm deeply interested in statistics, data science, and financial modeling — I'm diving into data and statistics to better understand how things actually work.
+## About Me
 
-I started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying Actuarial Science, Finance, and Statistics.
+Hi! I'm Anshu Mishra — a B.Com (Hons) student at Delhi University, also pursuing Actuarial Science. I'm deeply interested in statistics, data science, and finance.
+
+I started this blog to share my thoughts, explore ideas, and LEARN. I’m trying to apply the Feynman technique i.e. learning better by teaching and using this space to reflect on what I gather from studying all I know and will learn.
 
 When I'm not working or learning, I’m listening to Hip-hop, R&B, and Indie music — or watching some Anime and TV shows.
 
