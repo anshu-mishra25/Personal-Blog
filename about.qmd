@@ -3,7 +3,7 @@ title: "About"
 
 about:
   image: profile.jpg
-  image-title: Anshu Mishra
+  image-title: "Anshu Mishra"
   template: jolla
   links:
     - icon: twitter
